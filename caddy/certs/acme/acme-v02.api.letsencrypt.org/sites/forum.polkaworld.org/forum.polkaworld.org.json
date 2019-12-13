@@ -1,0 +1,5 @@
+{
+	"domain": "forum.polkaworld.org",
+	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/030cd87bb08b12ae6a1945211b207d8e4e06",
+	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/030cd87bb08b12ae6a1945211b207d8e4e06"
+}
